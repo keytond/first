@@ -6,3 +6,11 @@ Here's a replacement
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area shows the files that are prepared to be added to the commit and will be included in the repository. 
 It lets you see what will and won't be added to the commit
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+After making changes in the working directory, you can push them to the staging area with a git add.
+Then you can compar the file in the staging area with the file in the commit to verify the changes.
+Once verified, you can commit them to store them in the repo.
+
+
