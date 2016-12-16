@@ -13,4 +13,7 @@ After making changes in the working directory, you can push them to the staging 
 Then you can compar the file in the staging area with the file in the commit to verify the changes.
 Once verified, you can commit them to store them in the repo.
 
-
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches allow you to separate versions of your code for independent development.
+THis can be useful when working on experimental features, translations, or making changes to functionality that 
+may require more than one commit. Branches allow you to distinguish between versions of your code in a human-readable naming convention
