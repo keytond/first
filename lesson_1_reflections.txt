@@ -1,0 +1,36 @@
+my first reflections
+
+installed vim
+installed notepad++
+installed git so i can use the git bash in windows
+tools I use at work a bit but haven't used at home
+I'm getting nerdier all the time
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Neat! I finally learned how to paste into vim from the clipboard. +p
+
+And how to copy a line from vim to the clipboard. +y   I copied and pasted this line:
+Neat! I finally learned how to paste into vim from the clipboard. +p
+
+Good explanation of commits in Git. Seems like it would be useful for some of 
+my projects at work but I don't think my tools interact with it very well. It'd
+be an extra, separate step for every commit.
+
+thoughts about commits that include multiple files. sounds like a nice way
+to compare code repositories
+
+git log shows the versions of repos saved at different times
+
+git diff runs a diff against any files in the listed commits
+
+there's a handy command to color your git diffs
+git config --global color.ui auto
+
+a great example of using version control to find bugs
+and super handy to have confidence that previous versions are available to roll back to when needed
+
+it'd be nice to be comfortable enough with git (and vim) to use it for projects at work. 
+
+so many unix/linux programs require custom configs before they're usable. 
+it's nice to walk through the configurations with a video like this so I know
+where we're headed and why
