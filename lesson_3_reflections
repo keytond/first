@@ -4,4 +4,11 @@ Remote repos are great if you're editing a project from multiple devices or coll
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 It's always nice to have control over what's going where. If you're collaborating with other developers, you might not want to pull their code automatically. 
-On large projects, you might only want to pull files that relate to your piece of the project.
+On large projects, you might only want to pull files that relate to your piece of the project
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Branches are handy when experimenting with new types of code or making changes you're not sure will be incorporated into the main project. 
+Clones work to keep your code up-to-date and manage your own copies. 
+Forks are perfect if you're going to play with someone else's git-stored code on your own.
+
