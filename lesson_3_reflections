@@ -1,3 +1,7 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
 Remote repos are great if you're editing a project from multiple devices or collaborating with others. They also give you offsite storage as a backup and make code more easily discoverable.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+It's always nice to have control over what's going where. If you're collaborating with other developers, you might not want to pull their code automatically. 
+On large projects, you might only want to pull files that relate to your piece of the project.
