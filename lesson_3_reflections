@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+Remote repos are great if you're editing a project from multiple devices or collaborating with others. They also give you offsite storage as a backup and make code more easily discoverable.
