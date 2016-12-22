@@ -12,3 +12,6 @@ Branches are handy when experimenting with new types of code or making changes y
 Clones work to keep your code up-to-date and manage your own copies. 
 Forks are perfect if you're going to play with someone else's git-stored code on your own.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+This allows to to compare the remote with the current local copy.
+
