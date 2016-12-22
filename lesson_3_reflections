@@ -15,3 +15,8 @@ Forks are perfect if you're going to play with someone else's git-stored code on
 What is the benefit of having a copy of the last known state of the remote stored locally?
 This allows to to compare the remote with the current local copy.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+It's tough to collaborate on code but it seems like github handles a lot of the things that typically cause big errors, even if it does add some overhead.
+Sometimes sharing files on dirs or via email would be easier for one-time distribution, collaboration, or reviews, but long-term collaboration and effective 
+division of effort probably require something like github to be effective.
+
